@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "621820357893",
+    "project_id": "ontapth2",
+    "storage_bucket": "ontapth2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621820357893:android:2ffec47e301b66ea9adb6c",
+        "android_client_info": {
+          "package_name": "dp.thudiep.ontapth_02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621820357893-5iroq80jr9f95luvm4gpur3uoi0bir26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiqaaLxXYagSfamczThqKmM6akbOHLoPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621820357893-5iroq80jr9f95luvm4gpur3uoi0bir26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
